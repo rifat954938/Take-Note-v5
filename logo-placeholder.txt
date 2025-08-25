@@ -1,0 +1,12 @@
+⚠️ LOGO PLACEHOLDER ⚠️
+
+Please replace this file with your actual takenote logo:
+
+1. Name it: logo.png
+2. Recommended size: 150x40px
+3. Place it in the root folder (same level as index.html)
+
+Current logo references in the code will automatically use your logo once you replace this file.
+
+File location: /logo.png
+Used in: index.html (header section)
